@@ -13,3 +13,10 @@ but also as an ETL using the powers of Power Query. I will write here a quick su
 ## Conculsion
 This project is not intended to get valuable insights from the data. Instead, I tried to know how much I could do with Excel. I applied the basic tools you need to create a valuable dashboard for insights.
 And I am very well open for contributions to make this more than one-page dashboard
+
+![Scheme](https://github.com/user-attachments/assets/6134525e-ea13-4e22-b2e8-3c6a70391176)
+
+
+![Screenshot 2024-12-31 155203](https://github.com/user-attachments/assets/952673d0-af2e-4905-b895-a538cb9d3061)
+
+
